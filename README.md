@@ -1,4 +1,4 @@
-# Silentz Clean
+# MetaNuke
 
 Outil de protection de la vie privée qui supprime radicalement toutes les métadonnées EXIF des images. Contrairement aux simples éditeurs, il reconstruit l'image pixel par pixel pour garantir qu'aucune donnée cachée (GPS, modèle d'appareil, date) ne subsiste.
 
